@@ -6,5 +6,4 @@ public class RectAndOval extends MyFrame {
 		fillOval(50,158,50,50);
 		fillOval(180,158,50,50);
 	}
-
 }
