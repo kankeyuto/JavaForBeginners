@@ -1,9 +1,9 @@
 
 public class RectAndOval extends MyFrame {
 	public void run() {
-		fillRect(30,100,220,60);
-		fillRect(105,50,80,90);
-		fillOval(50,158,50,50);
-		fillOval(180,158,50,50);
+		fillRect(30,60,75,20);
+		fillRect(55,50,25,30);
+		fillOval(35,80,20,20);
+		fillOval(80,80,20,20);
 	}
 }
