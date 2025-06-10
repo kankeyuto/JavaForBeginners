@@ -17,7 +17,8 @@ public class Start {
 //		MyFrame f=new DisplayFaceVector();
 //		MyFrame f=new DisplayCars();
 //		MyFrame f=new DisplayCarTrain();
-		MyFrame f=new DisplayCarsTrains();
+//		MyFrame f=new DisplayCarsTrains();
+		MyFrame f=new PlayerAnimation();
 		
 	}
 
